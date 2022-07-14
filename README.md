@@ -13,9 +13,10 @@ This challenge is to assist individuals seek financial loans from qualified bank
 
 ### Technologies
 ====================================================================================================
- A. Python 3.7
  
- B. Libraries
+A. Python 3.7
+ 
+B. Libraries
    
    > sys
      > fire
@@ -23,7 +24,7 @@ This challenge is to assist individuals seek financial loans from qualified bank
      > path from pathlib
      >  csv
   
-  C. VS code 
+C. VS code 
   
   ### Writing codes
 ====================================================================================================
